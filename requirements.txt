@@ -1,5 +1,5 @@
 streamlit
 requests
 pandas
-bz2
+bz2file
 pickle
