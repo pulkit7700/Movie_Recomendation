@@ -3,4 +3,3 @@ requests
 pandas
 bz2
 pickle
-_pickle
