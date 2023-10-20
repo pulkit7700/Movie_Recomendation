@@ -3,3 +3,4 @@ requests
 pandas
 bz2file
 pickle4
+validators>=0.21.0 # not directly required, pinned by Snyk to avoid a vulnerability
