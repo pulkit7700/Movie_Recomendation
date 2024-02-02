@@ -3,3 +3,4 @@ requests
 pandas
 bz2file
 pickle4
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
