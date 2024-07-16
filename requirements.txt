@@ -3,3 +3,4 @@ requests
 pandas
 bz2file
 pickle4
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
